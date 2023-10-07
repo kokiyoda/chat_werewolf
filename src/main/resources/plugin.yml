@@ -1,0 +1,4 @@
+name: chat_werewolf
+version: '${project.version}'
+main: kukanm.example.chat_werewolf.Chat_werewolf
+api-version: '1.19'
